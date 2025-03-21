@@ -1,14 +1,32 @@
 {
-  "chainId": 103,
-  "address": "2PbF3Kc2Dw1cpWZn7Es7Xbd2KsN1w9bkCgWiBQmNvZJe",
-  "symbol": "MATX",
   "name": "MATRIXAI6900",
-  "decimals": 6,
+  "symbol": "MATX",
+  "description": "MATX IS THE HEARTBEAT OF MATRIXAI6900, A REVOLUTIONARY AI-POWERED CRYPTO COMPANION ON SOLANA. MATRIXAI6900 EMPOWERS USERS WITH CUTTING-EDGE PORTFOLIO MANAGEMENT, REAL-TIME SECURITY PROTECTION, AND NFT EVOLUTION, ALL FUELED BY MATX. WITHIN THE MATRIXAI6900 ECOSYSTEM, MATX DRIVES GOVERNANCE AND INNOVATION, WITH 10% OF EVERY TRANSACTION BURNED TO BOOST SCARCITY AND SOLIDIFY MATRIXAI6900’S VISION OF A SMARTER, DECENTRALIZED CRYPTO FUTURE.",
   "image": "https://bafybeig5zhjpc2istunq62flfr6uhxjmcqnh3dmkgvgb2ws4qnrm7rggty.ipfs.w3s.link/logo.png",
-  "tags": ["UTILITY-TOKEN", "AI", "CRYPTO-COMPANION"],
+  "decimals": 6,
+  "external_url": "https://matrixai6900.solana",
+  "attributes": [
+    {"trait_type": "Type", "value": "Utility Token"},
+    {"trait_type": "Category", "value": "AI"},
+    {"trait_type": "Feature", "value": "Crypto Companion"}
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "https://bafybeig5zhjpc2istunq62flfr6uhxjmcqnh3dmkgvgb2ws4qnrm7rggty.ipfs.w3s.link/logo.png",
+        "type": "image/png"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "9xWRGMLKrBx8N5a7RS2DPXCJd7P9AuezAd4UH4uCoSy1",
+        "share": 100
+      }
+    ]
+  },
   "extensions": {
     "website": "https://matrixai6900.solana",
-    "twitter": "https://twitter.com/MATRIXAI6900",
-    "description": "MATX IS THE HEARTBEAT OF MATRIXAI6900, A REVOLUTIONARY AI-POWERED CRYPTO COMPANION ON SOLANA. MATRIXAI6900 EMPOWERS USERS WITH CUTTING-EDGE PORTFOLIO MANAGEMENT, REAL-TIME SECURITY PROTECTION, AND NFT EVOLUTION, ALL FUELED BY MATX. WITHIN THE MATRIXAI6900 ECOSYSTEM, MATX DRIVES GOVERNANCE AND INNOVATION, WITH 10% OF EVERY TRANSACTION BURNED TO BOOST SCARCITY AND SOLIDIFY MATRIXAI6900’S VISION OF A SMARTER, DECENTRALIZED CRYPTO FUTURE."
+    "twitter": "https://twitter.com/MATRIXAI6900"
   }
 }
